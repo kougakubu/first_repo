@@ -1,2 +1,3 @@
 file is changed.
 file is chenged by master
+file is chenged by try-conflict
