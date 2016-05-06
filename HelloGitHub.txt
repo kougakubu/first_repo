@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-test
-=======
-My first Collaborate.
-
-
->>>>>>> a0ae80331bfe170abe1aed1f33946cd76ffa9ff2
+MyfirstCollaborate.
